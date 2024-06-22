@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/*
+   FunForFitnessClub Stylesheet
+   Author:  William Meyers
+   Date:    2024-06-24
+   Filename:style.css
+
+
+*/
+
+/* Body Styles */
+
+body{
+    background-color: aqua;
+}
+
+/* Table Styles */
+
+td{
+    vertical-align: text-top;
+}
