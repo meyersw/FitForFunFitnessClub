@@ -11,7 +11,7 @@
    Box Highlight: Orange
    Background: Aqua
 
-   
+
 */
 
 /* Body Styles */
@@ -56,8 +56,8 @@ section#images {
 /* display 3 images in a row */
 .column {
     float: left;
-    width: 30%;
-    padding: 5px;
+    width: 33.33%;
+
 }
 
 .row::after {
